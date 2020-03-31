@@ -1,0 +1,76 @@
+html {
+    position: relative;
+    min-height: 100%;
+    background-color: #111;
+}
+
+.black_cover {
+    background-color: #111;
+}
+
+.start {
+    max-width: 1140px;
+    padding: 55px 0 85px;
+}
+
+.center_block {
+    margin: 0 auto;
+}
+
+.well_come {
+    margin: 0;
+    padding: 200px 0 280px;
+}
+
+.well_come h2 {
+    margin-bottom: 20px;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.grey {
+    color: #999999
+}
+
+.yellow {
+    color: #e69d40;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.text_20 {
+    font-size: 20px;
+}
+
+.light_grey {
+    color: #b2b2b2;
+}
+
+
+/* .flex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap
+} */
+
+.center_block {
+    margin: 0 auto;
+}
+
+@media (max-width: 991.98px) {
+    .padding_md {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .padding_md {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}

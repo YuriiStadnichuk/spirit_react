@@ -1,0 +1,45 @@
+.bold {
+    font-weight: 600;
+}
+
+.title_line>div:first-child {
+    padding-top: 28px;
+    width: 100px;
+}
+
+.title_line>div:last-child {
+    padding-top: 10px;
+    width: 68px;
+}
+
+.yellow_line {
+    border-bottom: 4px solid #e69d40;
+}
+
+.center_block {
+    margin: 0 auto;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.tablist {
+    width: 55px;
+}
+
+.tablist button {
+    display: block;
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    padding: 0;
+    overflow: hidden;
+    border: 4px solid transparent;
+}
+
+.tablist button:hover,
+.tablist button:active,
+.tablist button:focus {
+    background-color: #e69d40;
+}
